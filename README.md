@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Lua programming related to nil values.  The `bug.lua` file contains code that attempts to access a member of a nil value, resulting in a runtime error. The `bugSolution.lua` file shows how to correctly handle this scenario.
